@@ -1,0 +1,20 @@
+html {
+     background-color: lightblue;
+    background-size: 900px, 1000px;
+}
+P{
+    color:darkblue;
+}
+h1{
+    color:black;
+}
+h2{
+    color:darkslategrey;
+}
+Body {
+    font-size: 20px
+
+}
+blockquote {
+    color: darkblue;
+}
